@@ -1,0 +1,22 @@
+{
+  "name": "emily-dickinson-verses",
+  "version": "1.0.0",
+  "description": "An npm package inspired by Emily Dickinson — generates contemplative, nature-themed micro-poems with her signature dash style.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "poetry",
+    "emily-dickinson",
+    "generator",
+    "verses",
+    "literature"
+  ],
+  "author": "papersaurus <farmrecipes@ast.engineer>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farmrecipes67/emily-dickinson-verses"
+  }
+}
